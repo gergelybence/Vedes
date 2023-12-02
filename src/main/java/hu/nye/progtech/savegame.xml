@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<WumpusGame>
+    <HeroRow>1</HeroRow>
+    <HeroColumn>2</HeroColumn>
+    <HeroFacing>S</HeroFacing>
+    <ArrowCount>-1</ArrowCount>
+    <StepCount>7</StepCount>
+</WumpusGame>
